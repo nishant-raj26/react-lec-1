@@ -1,0 +1,1 @@
+<!-- This lecture is all about the introduction of html, css and basic js. why we dont use this way of web development.... -->
